@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Configuration\MSH062E0_00_07DB_C6^182FDC0875F0A76803E4A9848A8C1EA7\00]
+"PrimSurfSize.cx"=dword:00000780
+"PrimSurfSize.cy"=dword:00000438
+"Stride"=dword:00001e00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Configuration\MSH062E0_00_07DB_C6^182FDC0875F0A76803E4A9848A8C1EA7\00\00]
+"ActiveSize.cx"=dword:00000780
+"ActiveSize.cy"=dword:00000438
